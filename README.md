@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kyReid/shodan-x">
-    <img src="images/icon.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Bulk Scanner</h3>
 </div>
 
